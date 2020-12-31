@@ -1,3 +1,9 @@
+---
+description: >-
+  A detailed view on asynchronous and event-based programs by using observable
+  sequences
+---
+
 # RXJS Cheat Sheet
 
 ## Understanding RxJs - What are streams?
